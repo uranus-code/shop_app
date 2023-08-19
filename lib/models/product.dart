@@ -32,7 +32,7 @@ final List<Product> products = [
       Colors.blue,
       Colors.orange,
     ],
-    category: "",
+    category: "Headphones",
     rate: 4.8,
   ),
   Product(
